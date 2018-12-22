@@ -1,0 +1,2 @@
+*MonNom.foreground: red
+*button_file.foreground: green
